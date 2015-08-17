@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.40.140.91:8091/Download/User/dev_mzbiphoneapp.ipa</string>
+					<string>http://api-dev.meizhiban.com:8091/Download/User/dev_mzbiphoneapp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
